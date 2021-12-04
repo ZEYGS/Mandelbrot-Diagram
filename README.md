@@ -1,1 +1,1 @@
-# Mandelbrot-Diagram
+The Mandelbrot set is a particular set of complex numbers which has a highly convoluted fractal boundary when plotted. The purpose of this project was to visualize the Mandelbrot fractal using Python.
